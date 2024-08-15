@@ -1,11 +1,16 @@
 _repo: It-is-to-laugh-b-A-book-of-games-and-stunts_73814
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73814-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Geister, Edna
     gutenberg_agent_id: '57230'
     url: http://www.gutenberg.org/2009/agents/57230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73814#It-is-to-laugh-b-A-book-of-games-and-stunts
 gutenberg_issued: '2024-06-12'
 gutenberg_type: Text
 identifiers:
